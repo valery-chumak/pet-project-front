@@ -10,7 +10,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     {/*  */}
     {/* для гита */}
-    <BrowserRouter basename="/petly-team-project/">
+    <BrowserRouter basename="/pet-project-front/">
       {/*  */}
       {/* <BrowserRouter> */}
       <App />
